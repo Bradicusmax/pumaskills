@@ -1,2 +1,3 @@
-# pumaskills
-PUMA Skills LLC - Practical Utility for Modern AI
+# PUMA Skills LLC
+
+Practical Utility for Modern AI.
